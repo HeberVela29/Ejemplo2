@@ -1,0 +1,7 @@
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.csproj.AssemblyReference.cache
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.Properties.Resources.resources
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.csproj.GenerateResource.cache
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.AssemblyInfoInputs.cache
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.AssemblyInfo.cs
+D:\TUP\Programación II\Ejemplo2_ProductRepository_2025\obj\Debug\net8.0\Ejemplo2_ProductRepository_2025.csproj.CoreCompileInputs.cache
